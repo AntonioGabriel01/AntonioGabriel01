@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá :smile:
 
-<!--
-**AntonioGabriel01/AntonioGabriel01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Antonio Gabriel, Sou um Programador Front End, estou aprendendo e criando projetos com:
+<br>
+<br>
+- <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="Html" width="70" />
+- <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" width="70" height="25" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+E Estou iniciando Em:
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+![Antonio Status](https://github-readme-stats.vercel.app/api?username=AntonioGabriel01&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioGabriel01&langs_count=4&layout=compact&show_icons=true&theme=tokyonight)
